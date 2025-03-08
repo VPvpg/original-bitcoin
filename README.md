@@ -6,4 +6,5 @@ This is a historical repository of Satoshi Nakamoto's original bitcoin sourcecod
 ---
 
 оригинальный-биткойн
+
 Это историческое хранилище исходного кода оригинального биткоина Сатоши Накамото.
